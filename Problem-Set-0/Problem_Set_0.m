@@ -1,4 +1,5 @@
-%% Part of Problem Set 0 , it is not following the name convention, it also do not store images, just displayes them
+%% Part of Problem Set 0 , it is not following the name convention, it also do not store images, 
+%just displayes them
 house = imread('house.tiff');
 pepper = imread('pepper.tiff');
 
